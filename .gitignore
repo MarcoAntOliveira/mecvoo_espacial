@@ -1,3 +1,6 @@
 __pycache__
 .vscode
 /amb18/
+/build/
+/log/
+/install/

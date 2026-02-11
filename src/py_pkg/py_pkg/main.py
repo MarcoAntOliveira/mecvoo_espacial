@@ -2,7 +2,7 @@ import pygame
 import numpy as np
 
 from Orbitas import *
-from desenho_orbitas import *
+from src.py_pkg.py_pkg.desenho_orbitas import *
 theta = 0
 Orbita_Nave = [6820, 0.0002, 5.051777, 0.7504916, 3.8017826, 50000]
 
